@@ -1,0 +1,13 @@
+Date: {{.now}}
+
+    Hello {{.name -}},
+    
+    Forecast:
+
+    {{range .weather.data.text}}
+       + {{ . }}
+    {{end}}
+
+    Thank you
+
+    {{.signature}}
