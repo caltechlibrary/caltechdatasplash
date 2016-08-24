@@ -1,4 +1,4 @@
 
 + [Home](/)
-+ [Github](https://github.com/caltechlibrary/mkpage)
++ [Become a Beta Tester!](mailto:data@caltech.edu?subject=CaltechDATA Beta Test)
 
